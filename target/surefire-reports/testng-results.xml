@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-22T00:55:28 IST" name="Regression" finished-at="2024-09-22T00:55:45 IST" duration-ms="16577">
+  <suite started-at="2024-09-24T00:40:45 IST" name="Regression" finished-at="2024-09-24T00:40:55 IST" duration-ms="10125">
     <groups>
     </groups>
-    <test started-at="2024-09-22T00:55:28 IST" name="Test" finished-at="2024-09-22T00:55:45 IST" duration-ms="16577">
+    <test started-at="2024-09-24T00:40:45 IST" name="Test" finished-at="2024-09-24T00:40:55 IST" duration-ms="10125">
       <class name="org.page.execution.LoginExecutionT">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:28 IST" name="beforeClass" finished-at="2024-09-22T00:55:28 IST" duration-ms="24" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:45 IST" name="beforeClass" finished-at="2024-09-24T00:40:45 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:29 IST" name="openBrowser" finished-at="2024-09-22T00:55:36 IST" duration-ms="6992" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:46 IST" name="openBrowser" finished-at="2024-09-24T00:40:49 IST" duration-ms="2926" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:36 IST" name="logIn" data-provider="Data" finished-at="2024-09-22T00:55:37 IST" duration-ms="761" status="PASS">
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:49 IST" name="logIn" data-provider="Data" finished-at="2024-09-24T00:40:49 IST" duration-ms="339" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -31,15 +31,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logIn -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:37 IST" name="closeBrowser" finished-at="2024-09-22T00:55:37 IST" duration-ms="156" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:49 IST" name="closeBrowser" finished-at="2024-09-24T00:40:49 IST" duration-ms="115" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:37 IST" name="openBrowser" finished-at="2024-09-22T00:55:40 IST" duration-ms="2964" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:49 IST" name="openBrowser" finished-at="2024-09-24T00:40:51 IST" duration-ms="2296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:40 IST" name="logIn" data-provider="Data" finished-at="2024-09-22T00:55:41 IST" duration-ms="654" status="PASS">
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:51 IST" name="logIn" data-provider="Data" finished-at="2024-09-24T00:40:52 IST" duration-ms="311" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -55,15 +55,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logIn -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:41 IST" name="closeBrowser" finished-at="2024-09-22T00:55:41 IST" duration-ms="151" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:52 IST" name="closeBrowser" finished-at="2024-09-24T00:40:52 IST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:41 IST" name="openBrowser" finished-at="2024-09-22T00:55:44 IST" duration-ms="2991" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:52 IST" name="openBrowser" finished-at="2024-09-24T00:40:55 IST" duration-ms="3084" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:44 IST" name="logIn" data-provider="Data" finished-at="2024-09-22T00:55:45 IST" duration-ms="617" status="PASS">
+        <test-method signature="logIn(java.lang.String,java.lang.String)[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:55 IST" name="logIn" data-provider="Data" finished-at="2024-09-24T00:40:55 IST" duration-ms="319" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -79,11 +79,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logIn -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:45 IST" name="closeBrowser" finished-at="2024-09-22T00:55:45 IST" duration-ms="158" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:55 IST" name="closeBrowser" finished-at="2024-09-24T00:40:55 IST" duration-ms="100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:org.page.execution.LoginExecutionT@2a798d51]" started-at="2024-09-22T00:55:45 IST" name="afterClass" finished-at="2024-09-22T00:55:45 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:org.page.execution.LoginExecutionT@63475ace]" started-at="2024-09-24T00:40:55 IST" name="afterClass" finished-at="2024-09-24T00:40:55 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
